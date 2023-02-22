@@ -1,0 +1,11 @@
+﻿  3DScene.cpp
+C:\Users\Brody Roze\OneDrive\Documents\School\CS330\My Scene\3DScene\3DScene\3DScene.cpp(273,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brody Roze\OneDrive\Documents\School\CS330\My Scene\3DScene\3DScene\3DScene.cpp(281,37): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Brody Roze\OneDrive\Documents\School\CS330\My Scene\3DScene\3DScene\3DScene.cpp(1163,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brody Roze\OneDrive\Documents\School\CS330\My Scene\3DScene\3DScene\3DScene.cpp(1164,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brody Roze\OneDrive\Documents\School\CS330\My Scene\3DScene\3DScene\3DScene.cpp(1168,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brody Roze\OneDrive\Documents\School\CS330\My Scene\3DScene\3DScene\3DScene.cpp(1169,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brody Roze\OneDrive\Documents\School\CS330\My Scene\3DScene\3DScene\3DScene.cpp(1171,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brody Roze\OneDrive\Documents\School\CS330\My Scene\3DScene\3DScene\3DScene.cpp(1172,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brody Roze\OneDrive\Documents\School\CS330\My Scene\3DScene\3DScene\3DScene.cpp(1180,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  3DScene.vcxproj -> C:\Users\Brody Roze\OneDrive\Documents\School\CS330\My Scene\3DScene\Debug\3DScene.exe
